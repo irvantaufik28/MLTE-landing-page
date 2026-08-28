@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+logs
+*.log
+.env
+.env.*
+.env.local
+.git
+Release
+*.zip
+*.exe
+*.bcp
+EDIT00000000
+ML00000000.bcp
